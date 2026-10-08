@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "4bd167f2-a731-44a0-8d03-2df8f669a633",
+    "author": "Alexander Kuznetsov",
+    "description": {
+        "": "Generate a spiral as a sketch curve, with control over how it unfolds."
+    },
+    "version": "1.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
